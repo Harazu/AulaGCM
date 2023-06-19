@@ -6,7 +6,7 @@ link para o [livro](https://git-scm.com/book)
 ![](https://git-scm.com/images/logo@2x.png)
 
 Lista de tecnologias:
-- Markdown
-- Git
+- Markdown.
+- Git.
 
 
